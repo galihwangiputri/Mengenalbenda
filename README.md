@@ -11,8 +11,8 @@ Aplikasi ini adalah bentuk penerapan dari android dasar menggunakan ListView.
 * ListView
 
 ## Instal Aplikasi
-1. Buka folder "install-apk"
-2. Unduh MengenalBenda.apk
+1. Buka folder "asset"
+2. Unduh mengenal-benda.apk
 3. Lakukan install ke perangkat android 
 
 ## Demo Aplikasi
